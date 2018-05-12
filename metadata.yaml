@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7646'
     url: http://www.gutenberg.org/2009/agents/7646
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17848#Life-in-a-Medi-val-CityIllustrated-by-York-in-the-XVth-Century
 gutenberg_issued: '2006-02-24'
 gutenberg_type: Text
 identifiers:
