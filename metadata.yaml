@@ -1,0 +1,30 @@
+_repo: Life-in-a-Medi-val-CityIllustrated-by-York-in-the-XVth-Century_17848
+_version: 0.1.0
+alternative_title:
+- "Life in a Mediaeval City\r\nIllustrated by York in the Fifteenth Century"
+- "Life in a Mediaeval City\r\nIllustrated by York in the 15th Century"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Edwin
+    gutenberg_agent_id: '7646'
+    url: http://www.gutenberg.org/2009/agents/7646
+description: ''
+gutenberg_issued: '2006-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'York (England) -- Social life and customs'
+- !lcsh 'York (England) -- History'
+- !lcc 'DA'
+title: 'Life in a Mediæval City
+
+  Illustrated by York in the XVth Century'
+url: http://www.gutenberg.org/ebooks/17848
